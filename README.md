@@ -5,6 +5,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Mid QA Engineer** at [Konrad Costa Rica](https://www.konrad.com/)
+- Certified ISTQB Tester Foundation Level
 - 👨🏻‍💻 I have worked with automation frameworks like Cypress, TestNG and Pytest.
 - 🎓 Studies for Software Engineering at [National University of Costa Rica](https://www.una.ac.cr/)
 - 🏡'Lives in **Heredia, Costa Rica**
