@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Associate QA Engineer** at [OpenText](https://www.opentext.com/)
+- 🏢 I am currently working as a **Mid QA Engineer** at [Konrad Costa Rica](https://www.konrad.com/)
 - 👨🏻‍💻 I have worked with automation frameworks like Cypress, TestNG and Pytest.
 - 🎓 Studies for Software Engineering at [National University of Costa Rica](https://www.una.ac.cr/)
 - 🏡'Lives in **Heredia, Costa Rica**
