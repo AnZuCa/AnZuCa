@@ -6,7 +6,7 @@
 
 - 🏢 I am currently working as a **Senior QA Engineer** at [Konrad Costa Rica](https://www.konrad.com/)
 - Certified ISTQB Tester Foundation Level
-- 👨🏻‍💻 I have worked with automation frameworks like Cypress, TestNG and Pytest.
+- 👨🏻‍💻 I have worked with automation frameworks like Cypress, TestNG, Pytest, Robot Framework.
 - 🎓 Studies for Software Engineering at [National University of Costa Rica](https://www.una.ac.cr/)
 - 🏡'Lives in **Heredia, Costa Rica**
 - 🧠 Currently, I'm learning playwright.
